@@ -1,30 +1,47 @@
 # Hi, I'm Varshitha 👋
 
-🎓 Artificial Intelligence and Machine Learning Student
+### AIML Student | Aspiring Software Engineer
 
-I'm working towards becoming a strong software engineer by learning programming fundamentals, building real-world projects, and solving problems independently.
+I'm an Artificial Intelligence and Machine Learning student interested in building practical software, solving problems, and developing applications that make everyday tasks easier.
 
-## 🎯 Current Learning Goals
+I believe in learning by building, understanding the code I write, and improving my projects through testing and feedback.
 
-- 🌐 Web Development: HTML, CSS, JavaScript, React and TypeScript
-- ☕ Backend Development: Java, Spring Boot and MySQL
-- 🤖 AI: Building applications with useful AI features
-- 🧠 Problem Solving: Data Structures and Algorithms in Java
-- 🛠️ Developer Tools: Git, GitHub, testing, Docker and deployment
+## 🚀 What I'm Working On
 
+- 🎓 **Student Information System** — currently developing a student management application.
+- 💻 Strengthening my programming and problem-solving skills.
+- 🌐 Learning full-stack development and backend engineering.
+- 🤖 Exploring practical applications of AI and machine learning.
 
-## 📌 Projects
+## 🛠️ Technologies
 
-I'm building and improving projects as I progress through my roadmap. Project descriptions, source code and demos will be added here as they become ready.
+**Programming:** Java, Python
 
-## 📚 My Approach
+**Web Development:** HTML, CSS, JavaScript
 
-- Learn concepts before using AI-generated code.
-- Write and debug code independently.
-- Use AI for explanations, hints and code reviews.
-- Test projects and document what I learn.
+**Backend & Databases:** Java, Spring Boot, MySQL, REST APIs
+
+**Tools:** Git, GitHub, VS Code
+
+*This list will evolve as I learn and build more projects.*
+
+## 🎯 My Goals
+
+- Build reliable, well-documented software projects.
+- Improve my Data Structures and Algorithms skills.
+- Learn to design, test, and deploy applications.
+- Develop practical AI-powered solutions.
+- Prepare for software engineering and AI/ML internships.
+
+## 📌 Featured Projects
+
+My best completed projects will be featured here as they become ready, with source code, setup instructions, and project documentation.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Varshithadevi-1234
+- GitHub: https://github.com/VarshithaDevi21
+- LinkedIn: https://www.linkedin.com/in/varshithadevi-parimi-384b03328
 
+---
+
+*Learning consistently. Building thoughtfully. Improving every day.*
